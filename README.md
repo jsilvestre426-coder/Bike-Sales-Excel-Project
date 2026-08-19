@@ -26,8 +26,8 @@ Pivot Charts: Created Clustered Column and Line charts to visualize trends.
 Interactive Slicers: Added filters for Marital Status, Education, and Region, allowing users to interact with the data in real-time.
 
 # Tools Used
-Microsoft Excel:
-Pivot Tables & Pivot Charts
-Nested IF Functions
-Slicers for Interactivity
-Data Cleaning & Normalization
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Nested IF Functions
+- Slicers for Interactivity
+- Data Cleaning & Normalization
