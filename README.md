@@ -1,5 +1,6 @@
 # Bike Sales Analysis Dashboard 
-Project Overview
+# Project Overview
+
 This project focuses on analyzing customer demographic data to identify trends and patterns that influence bike purchases. By transforming raw data into an interactive Excel dashboard, I provide insights into how factors like income, age, and commute distance impact a customer's likelihood of buying a bike.
 
 Dataset
